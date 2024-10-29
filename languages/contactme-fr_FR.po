@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Me\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-12 03:20+0500\n"
+"PO-Revision-Date: 2012-04-23 22:30+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me\n"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:22
+msgid "Under the Sun"
+msgstr "Under the Sun"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:23
+msgid "Deep in the Universe"
+msgstr "Deep in the Universe"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:32
+msgid "Confirmation e-mail"
+msgstr "email de confirmation"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:33
+msgid "Dear {visitor_name}!"
+msgstr "Cher(e) {visitor_name} !"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:33
+msgid "By this message we confirm receiving your request. We will contact you as soon as possible."
+msgstr "Nous confirmons avoir reçu votre message. Nous vous contacterons dès que possible."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:33
+msgid "Thanks,"
+msgstr "Merci,"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:35
+msgid "Please fill in the following form to contact us"
+msgstr "Merci de remplir le formulaire suivant pour nous contacter"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:36
+msgid "<h1>Form successfully submitted</h1>"
+msgstr "<h1>Formulaire soumis avec succès</h1>"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:36
+msgid "Thank you <strong>{visitor_name}</strong>, your message has been submitted to us."
+msgstr "Merci <strong>{visitor_name}</strong>, votre message nous a bien été transmis."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:81
+msgid "E-mail for notifications must be valid e-mail address"
+msgstr "L'email pour les notifications doit être une adresse valide"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:82
+msgid "Sender e-mail must be valid e-mail address"
+msgstr "L'expéditeur doit avoir une adresse email valide"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:83
+msgid "Sender name is too short"
+msgstr "Le nom de l'expéditeur est trop court"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:85
+msgid "Confirmation e-mail subject must contain at least 3 characters"
+msgstr "Le sujet du mail de confirmation doit contenir au moins 3 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:86
+msgid "Confirmation e-mail subject must contain maximum 64 characters"
+msgstr "Le sujet du mail de confirmation doit contenir au maximum 64 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:87
+msgid "Confirmation e-mail body must contain at least 3 characters"
+msgstr "Le corps du mail de confirmation doit contenir au moins 3 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:89
+msgid "Form title is too short"
+msgstr "Le titre du formulaire est trop court"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:90
+msgid "Thanksgiving message must contain at least 3 characters"
+msgstr "Le message de remerciement doit contenir au moins 3 caractères"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:96
+msgid "Contact Me"
+msgstr "Contactez-moi"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:103
+msgid "The following error(s) exists:"
+msgstr "L'erreur suivante est apparue :"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:106
+msgid "Contact Me - Settings"
+msgstr "Contact - Paramètres"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:114
+msgid "Click to hide this box"
+msgstr "Cliquez pour cacher cette boîte"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:114
+msgid "Hide"
+msgstr "Masquer"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:115
+msgid "Support further development"
+msgstr "Soutenir les futurs développements"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:117
+msgid "You are happy with this plugin and want to help make it even better? Donate small amount and support further development. All donations are used to improve this plugin!"
+msgstr "Vous êtes satisfait de ce plugin et voulez aider à l'améliorer ? Faites un petit don et soutenez les futurs développements. Tous les dons sont utilisés pour améliorer ce plugin !"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:136
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:140
+msgid "E-mail for notifications:"
+msgstr "Email pour les notifications:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:141
+msgid "Please enter e-mail address. All submitted form details are sent to this e-mail address."
+msgstr "Merci d'entrer une adresse email. Tous les détails du formulaire seront envoyés à cette adresse."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:144
+msgid "Sender name:"
+msgstr "Expéditeur:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:145
+msgid "Please enter sender name. All confirmation messages are sent using this name as \"FROM:\" header value."
+msgstr "Merci d'entrer un nom d'expéditeur. Tous les messages de confirmation sont envoyés en utilisant ce nom en tant que valeur dans la zone \"De:\" des emails."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:148
+msgid "Sender e-mail:"
+msgstr "Email de l'expéditeur"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:149
+msgid "Please enter sender e-mail. All confirmation messages are sent using this e-mail as \"FROM:\" header value."
+msgstr "Merci d'entrer un email d'expéditeur. Tous les messages de confirmation sont envoyés en utilisant cet email dans la zone \"De\" des emails."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:152
+msgid "Send Confirmation:"
+msgstr "Envoyer la confirmation"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:153
+msgid "Send confirmation e-mail"
+msgstr "Envoyez un email de confirmation"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:153
+msgid "Enable sending confirmation e-mail to visitors."
+msgstr "Autoriser l'envoi d'emails de confirmation aux visiteurs"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:156
+msgid "Confirmation e-mail subject:"
+msgstr "Sujet de l'email de confirmation:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:157
+msgid "Every visitor who submitted the form receives confirmation e-mail message by e-mail. This is the subject of the message."
+msgstr "Chaque visiteur validant le formulaire reçoit un email de confirmation. Ceci est le sujet du message."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:160
+msgid "Confirmation e-mail body:"
+msgstr "Corps de l'email de confirmation:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:161
+msgid "This e-mail message is sent to visitors who submitted the form. You can use the following keywords: {visitor_name}, {visitor_email}, {visitor_message}."
+msgstr "Cet email est envoyé aux visiteurs validant le formulaire. Vous pouvez utiliser les mots-clés suivants : {visitor_name}, {visitor_email}, {visitor_message}."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:164
+msgid "Form theme:"
+msgstr "Thème du formulaire:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:171
+msgid "Select desired form theme."
+msgstr "Sélectionnez le thème désiré pour le formulaire."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:174
+msgid "Form title:"
+msgstr "Titre du formulaire:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:175
+msgid "Please enter form title."
+msgstr "Merci d'entrer un titre."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:178
+msgid "Thanksgiving message:"
+msgstr "Message de remerciement:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:179
+msgid "This message is displayed if user successfully submitted the form. You can use the following keywords: {visitor_name}, {visitor_email}. HTML allowed."
+msgstr "Ce message s'affiche si l'utilisateur a validé avec succès le formulaire. Vous pouvez utiliser les mots-clés suivants : {visitor_name}, {visitor_email}. HTML autorisé."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:196
+msgid "Update Settings"
+msgstr "Paramètres de mise à jour"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:243
+msgid "<strong>Contact Me plugin almost ready.</strong> You must do some <a href=\"admin.php?page=contact-me\">settings</a> for it to work."
+msgstr "<strong>Le plugin Contact Me est presque prêt</strong> Il ne vous reste que quelques <a href=\"admin.php?page=contact-me\">paramètres</a> à renseigner pour le faire fonctionner."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:286
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:289
+msgid "E-mail"
+msgstr "Votre email"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:292
+msgid "Comments"
+msgstr "Votre message"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:296
+msgid "Submit"
+msgstr "Envoyer"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:315
+msgid "Your name is required."
+msgstr "Votre nom est obligatoire"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:318
+msgid "Your e-mail address is required."
+msgstr "Votre adresse email est obligatoire"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:320
+msgid "You have entered an invalid e-mail address."
+msgstr "Vous avez entré une adresse email invalide."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:323
+msgid "You must enter a message to send."
+msgstr "Vous devez taper un message avant d'envoyer."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:327
+msgid "Attention! Please correct the errors below and try again."
+msgstr "Attention! Merci de corriger les erreurs suivantes et d'essayer à nouveau."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:342
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:343
+msgid "You have been contacted by"
+msgstr "Vous avez été contacté par "
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:343
+msgid "The message is as follows."
+msgstr "Le message est le suivant."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:345
+msgid "You can contact"
+msgstr "Vous pouvez contacter"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:345
+msgid "via email"
+msgstr "par email"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:363
+msgid "Internal error occured!"
+msgstr "Une erreur interne est survenue! "
+

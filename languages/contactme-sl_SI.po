@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Me\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-12 03:20+0500\n"
+"PO-Revision-Date: 2012-02-21 20:25+0500\n"
+"Last-Translator: Ivan Churakov <ichurakov@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me\n"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:22
+msgid "Under the Sun"
+msgstr "Under the Sun"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:23
+msgid "Deep in the Universe"
+msgstr "Deep in the Universe"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:32
+msgid "Confirmation e-mail"
+msgstr "Potrditveno e-sporoèilo"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:33
+msgid "Dear {visitor_name}!"
+msgstr "Spoštovani {visitor_name}!"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:33
+msgid "By this message we confirm receiving your request. We will contact you as soon as possible."
+msgstr "Prejeli smo vaš zahtevek. Kontaktirali vas bomo takoj, ko bo mogoèe."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:33
+msgid "Thanks,"
+msgstr "Hvala,"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:35
+msgid "Please fill in the following form to contact us"
+msgstr "Prosimo, da izpolnete obrazec, èe želite z nami stopiti v stik"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:36
+msgid "<h1>Form successfully submitted</h1>"
+msgstr "<h1>Obrazec je bil uspešno poslan</h1>"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:36
+msgid "Thank you <strong>{visitor_name}</strong>, your message has been submitted to us."
+msgstr "Hvala <strong>{visitor_name}</strong>, vaše sporoèilo je bilo poslano."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:81
+msgid "E-mail for notifications must be valid e-mail address"
+msgstr "E-poštni naslov za obvestila mora biti veljaven"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:82
+msgid "Sender e-mail must be valid e-mail address"
+msgstr "E-poštni naslov pošiljatelja mora biti veljaven"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:83
+msgid "Sender name is too short"
+msgstr "Ime pošiljatelja je prekratko"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:85
+msgid "Confirmation e-mail subject must contain at least 3 characters"
+msgstr "Naslov potrditvenega sporoèila mora vsebovati vsaj 3 znake"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:86
+msgid "Confirmation e-mail subject must contain maximum 64 characters"
+msgstr "Naslov potrditvenega sporoèila lahko vsebuje najveè 64 znakov"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:87
+msgid "Confirmation e-mail body must contain at least 3 characters"
+msgstr "Vsebina potrditvenega sporoèila mora vsebovati vsaj 3 znake"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:89
+msgid "Form title is too short"
+msgstr "Naslov je prekratek"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:90
+msgid "Thanksgiving message must contain at least 3 characters"
+msgstr "Sporoèilo za zahvalo mora vsebovati vsaj 3 simbole"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:96
+msgid "Contact Me"
+msgstr "Kontaktirajte nas"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:103
+msgid "The following error(s) exists:"
+msgstr "Prišlo je do sledeèih napak:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:106
+msgid "Contact Me - Settings"
+msgstr "Kontaktirajte nas - Nastavitve"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:114
+msgid "Click to hide this box"
+msgstr "Pritisni, da se polje skrije"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:114
+msgid "Hide"
+msgstr "Skrij"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:115
+msgid "Support further development"
+msgstr "Podpri nadaljni razvoj"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:117
+msgid "You are happy with this plugin and want to help make it even better? Donate small amount and support further development. All donations are used to improve this plugin!"
+msgstr "Želite izboljšati modul? Podarite manjšo vsoto. Vse donacije bodo namenjene nadaljnem razvoju modula"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:136
+msgid "General Settings"
+msgstr "Splošne nastavitve"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:140
+msgid "E-mail for notifications:"
+msgstr "E-poštni naslov namenjen oznanilom"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:141
+msgid "Please enter e-mail address. All submitted form details are sent to this e-mail address."
+msgstr "Vnesite e-poštni naslov. Vse odposlane podrobnosti obrazca bodo poslane na ta naslov"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:144
+msgid "Sender name:"
+msgstr "Ime pošiljatelja:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:145
+msgid "Please enter sender name. All confirmation messages are sent using this name as \"FROM:\" header value."
+msgstr "Prosimo, vnesite ime pošiljatelja. Vsa potrditvena sporoèilo so poslana pod danim imenom kot \"FROM:\" vrednost glave."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:148
+msgid "Sender e-mail:"
+msgstr "E-poštni naslov pošiljatelja"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:149
+msgid "Please enter sender e-mail. All confirmation messages are sent using this e-mail as \"FROM:\" header value."
+msgstr "Prosimo vnesite e-poštni naslov pošiljatelja. Vsa potrditvena sporoèilo so poslana pod danim imenom kot \"FROM:\" vrednost glave."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:152
+msgid "Send Confirmation:"
+msgstr "Pošlji potrditev"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:153
+msgid "Send confirmation e-mail"
+msgstr "Pošlji potrditveni e-poštni naslov"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:153
+msgid "Enable sending confirmation e-mail to visitors."
+msgstr "Omogoèi pošiljanje potrditvenega e-sporoèila obiskovalcem."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:156
+msgid "Confirmation e-mail subject:"
+msgstr "Tema potrditvenega e-sporoèila:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:157
+msgid "Every visitor who submitted the form receives confirmation e-mail message by e-mail. This is the subject of the message."
+msgstr "Vsak obiskovalec, ki je poslal obrazec, prejme potrditveno e-sporoèilo na e-poštni naslov. To je naslov sporoèila."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:160
+msgid "Confirmation e-mail body:"
+msgstr "Vsebina potrditvenega e-sporoèila"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:161
+msgid "This e-mail message is sent to visitors who submitted the form. You can use the following keywords: {visitor_name}, {visitor_email}, {visitor_message}."
+msgstr "To sporoèilo se pošlje uporabnikom, ki so oddali sporoèilo. Uporabite lahko sledeèe kljuène besede: {visitor_name}, {visitor_email}, {visitor_message}."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:164
+msgid "Form theme:"
+msgstr "Teme obrazca"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:171
+msgid "Select desired form theme."
+msgstr "Izberite željeno temo obrazca."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:174
+msgid "Form title:"
+msgstr "Naslov obrazca"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:175
+msgid "Please enter form title."
+msgstr "Prosimo vnesite naslov obrazca."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:178
+msgid "Thanksgiving message:"
+msgstr "Zahvalno sporoèilo:"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:179
+msgid "This message is displayed if user successfully submitted the form. You can use the following keywords: {visitor_name}, {visitor_email}. HTML allowed."
+msgstr "Sporoèilo se prikaže, èe je uporabnik uspešno odpsolal obrazec. Lahko uporabite sledeèe kljuène besede: {visitor_name}, {visitor_email}. HTML allowed."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:196
+msgid "Update Settings"
+msgstr "Posodobi nastavitve"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:243
+msgid "<strong>Contact Me plugin almost ready.</strong> You must do some <a href=\"admin.php?page=contact-me\">settings</a> for it to work."
+msgstr "<strong>Modul skoraj pripravljen.</strong> Potrebno je urediti <a href=\"admin.php?page=contact-me\">nastavitve</a> da bo deloval."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:286
+msgid "Your Name"
+msgstr "Vaše ime"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:289
+msgid "E-mail"
+msgstr "E-poštni naslov"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:292
+msgid "Comments"
+msgstr "Vsebina"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:296
+msgid "Submit"
+msgstr "Pošlji"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:315
+msgid "Your name is required."
+msgstr "Ime je obvezno."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:318
+msgid "Your e-mail address is required."
+msgstr "E-poštni naslov je obvezen."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:320
+msgid "You have entered an invalid e-mail address."
+msgstr "Vnesli ste neveljaven e-poštni naslov."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:323
+msgid "You must enter a message to send."
+msgstr "Potrebno je napisati sporoèilo."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:327
+msgid "Attention! Please correct the errors below and try again."
+msgstr "Attention! Please correct the errors below and try again."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:342
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:343
+msgid "You have been contacted by"
+msgstr "Kontaktiral vas je"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:343
+msgid "The message is as follows."
+msgstr "Sporoèilo je sledeèe."
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:345
+msgid "You can contact"
+msgstr "Lahko kontaktirate"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:345
+msgid "via email"
+msgstr "preko pošte"
+
+#: /home/ichurakov/www/test1.ru/wp01/wp-content/plugins/ajax-contact-me/contact-me.php:363
+msgid "Internal error occured!"
+msgstr "Prišlo je do notranje napake!"
+

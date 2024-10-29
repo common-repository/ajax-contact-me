@@ -1,0 +1,25 @@
+table.contactme_useroptions {
+	width: 100%;
+	border-collapse: collapse;
+}
+table.contactme_useroptions em {
+	font-size: 11px;
+	color: #A0A0A0;
+}
+table.contactme_useroptions td,
+table.contactme_useroptions th {
+	padding: 5px 5px 5px 5px;
+	vertical-align: top;
+	border: 0px solid #C0C0C0;
+	text-align: left;
+}
+table.contactme_useroptions th {
+	width: 180px;
+}
+table.contactme_useroptions a{
+	color: #0080FF;
+	text-decoration: none;
+}
+table.contactme_useroptions a:hover{
+	text-decoration: underline;
+}
